@@ -59,3 +59,5 @@ footer .btn{color:#fff}.social a{margin-right:12px}
 .ghl-form{margin-top:20px;max-width:700px;background:#fff;color:#333;padding:12px;border-radius:4px}.ghl-reviews{margin:20px 0}
 
 .yt{position:relative;aspect-ratio:16/9;max-width:800px;margin:24px auto}.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}.hero-video{margin-top:32px}.post img{max-width:100%;height:auto}.post .alignright{float:right;margin:0 0 16px 24px;max-width:40%}.post .alignleft{float:left;margin:0 24px 16px 0;max-width:40%}.post .meta{color:#999;font-size:14px;margin:0 0 1em}.post hr{border:0;border-top:1px solid #333;margin:32px 0}.post h2,.post h3{margin-top:1.4em}.back{margin-top:40px}
+.btn[href*="chownow.com"]{background:#d41f1f}.btn[href*="chownow.com"]:hover{background:#b01515}
+.btn[href*="ezcater.com"]{background:#14532d}.btn[href*="ezcater.com"]:hover{background:#0e3d21}
