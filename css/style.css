@@ -56,4 +56,4 @@ footer .btn{color:#fff}.social a{margin-right:12px}
 @media(max-width:700px){.hdr{justify-content:center;text-align:center}nav{margin:0;flex-wrap:wrap;justify-content:center}.hero{padding:48px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
-.ghl-form{margin-top:20px;max-width:700px}.ghl-reviews{margin:20px 0}
+.ghl-form{margin-top:20px;max-width:700px;background:#fff;color:#333;padding:12px;border-radius:4px}.ghl-reviews{margin:20px 0}
