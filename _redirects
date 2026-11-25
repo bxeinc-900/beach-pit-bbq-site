@@ -1,0 +1,45 @@
+# Old WordPress URLs -> new site (301). Generated 2026-11-25.
+
+# Junk / utility pages
+/cart/ / 301
+/checkout/ / 301
+/elementor-hf/ / 301
+/elementor-hf/header/ / 301
+/elementor-hf/footer/ / 301
+/elementor-hf/header/woodbg-230x229/ / 301
+/elementor-hf/header/old-barn-wood-background/ / 301
+
+# Categories
+/category/bbq-catering/ /bbq-news-blog/ 301
+/category/best-bbq-in-orange-county/ /bbq-news-blog/ 301
+/category/smoked-bbq/ /bbq-news-blog/ 301
+
+# Attachment pages -> parent page
+/orange-county-bbq/pulled-pork-sandwichj/ /orange-county-bbq/ 301
+/orange-county-bbq/wrap/ /orange-county-bbq/ 301
+/orange-county-bbq/bbqchickensalad/ /orange-county-bbq/ 301
+/orange-county-bbq/texas-toast/ /orange-county-bbq/ 301
+/orange-county-bbq/bbq-hot-wings-beach-pit-bbq-orange-county/ /orange-county-bbq/ 301
+/orange-county-bbq/beach-pit-hot-wings-small/ /orange-county-bbq/ 301
+/orange-county-bbq/southwest-wrap-small/ /orange-county-bbq/ 301
+/orange-county-bbq/2meatsampler-small/ /orange-county-bbq/ 301
+/orange-county-bbq/banana-pudding/ /orange-county-bbq/ 301
+/orange-county-bbq/french-fries-2/ /orange-county-bbq/ 301
+/oc-bbq-catering/bbq-catering-orange-county-on-site/ /oc-bbq-catering/ 301
+/oc-bbq-catering/bbq-catering-orange-county-weddings/ /oc-bbq-catering/ 301
+/oc-bbq-catering/bbq-catering-orange-county/ /oc-bbq-catering/ 301
+/oc-bbq-catering/beach-pit-bbq-catering/ /oc-bbq-catering/ 301
+/oc-bbq-catering/fullrack/ /oc-bbq-catering/ 301
+/oc-bbq-catering/bbq-catering-orange-county-weddings-2/ /oc-bbq-catering/ 301
+/oc-bbq-catering/lady-eating-meat/ /oc-bbq-catering/ 301
+/oc-bbq-catering/bbq-catering-orange-county-weddings-header/ /oc-bbq-catering/ 301
+/beach-pit-bbq-feeds-extreme-home-make-over/extreme_makeover_home_edition/ /beach-pit-bbq-feeds-extreme-home-make-over/ 301
+/elmer-dills-visits-beach-pit-bbq/elmer-dills/ /elmer-dills-visits-beach-pit-bbq/ 301
+/tmbbq-fest-highlights-2016/fest2016_hero-615x410_view_pics/ /tmbbq-fest-highlights-2016/ 301
+/rib-restaurant-costa-mesa-beach-pit-bbq/types-of-ribs/ /rib-restaurant-costa-mesa-beach-pit-bbq/ 301
+/rib-restaurant-costa-mesa-beach-pit-bbq/meatsampler/ /rib-restaurant-costa-mesa-beach-pit-bbq/ 301
+/thanksgiving-turkey/turkey/ /thanksgiving-turkey/ 301
+/beach-pit-bbq-thanks/ /oc-bbq-catering/ 301
+/beach-pit-bbq-thanks/beach-pit_logo_140/ / 301
+/orange-county-bbq-2/costa-mesa-bbq-best-bbq-orange-county/ / 301
+/orange-county-bbq-2/white-brick-bg/ / 301
